@@ -1,0 +1,25 @@
+/* 全局样式 */
+page {
+  font: 24rpx/1 "PingFangSC-Regular", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  color: #333;
+}
+
+page,
+view,
+swiper,
+swiper-item,
+open-data,
+input,
+image,
+form,
+text,
+button,
+radio,
+textarea,
+picker,
+picker-view,
+picker-view-column {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
